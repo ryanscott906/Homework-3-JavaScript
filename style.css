@@ -1,0 +1,39 @@
+#main-title {
+    text-align: center;
+}
+
+.content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    padding: 20px;
+    width: 100%;
+}
+
+#display {
+    width: 100%;
+    font: grey;
+    font-style: italic;
+}
+
+#slider {
+    width: 100%;
+}
+
+#generate-button {
+    text-align: center;
+    background-color: lightcoral;
+    color: white;
+    border-radius: 50%;
+}
+
+#copy-button {
+    text-align: center;
+    background-color: gray;
+    color: white;
+    border-radius: 50%;
+}
+
+#length {
+    display: inline-block;
+}
